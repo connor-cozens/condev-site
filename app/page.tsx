@@ -6,6 +6,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div className="flex items-center">
         <UnderContruction />
+        <p>Test Push</p>
       </div>
     </main>
   )
